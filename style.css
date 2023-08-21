@@ -184,7 +184,7 @@ from {
     left: 0;
 }
 to {
-    left: 50%
+    left: 50%;
 }
 }
  
@@ -193,6 +193,6 @@ to {
         left: 50%;
     }
     to {
-        left: 0
+        left: 0;
     }
 }
